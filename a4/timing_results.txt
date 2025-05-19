@@ -1,0 +1,46 @@
+Jacobi Solver Timing Results
+====================================
+
+=== Small (10x10) Grid ===
+Iterations: 1
+Total computation time: 8.89 ms
+Average time per iteration: 0.4360 ms
+------------------------------
+Iterations: 5
+Total computation time: 6.78 ms
+Average time per iteration: 0.3265 ms
+------------------------------
+Iterations: 10
+Total computation time: 7.96 ms
+Average time per iteration: 0.3194 ms
+------------------------------
+Iterations: 50
+Total computation time: 39477.21 ms
+Average time per iteration: 0.0409 ms
+------------------------------
+Iterations: 100
+Total computation time: 161978.78 ms
+Average time per iteration: 0.0409 ms
+------------------------------
+
+=== Large (1024x1024) Grid ===
+Iterations: 1
+Total computation time: 280.49 ms
+Average time per iteration: 0.1287 ms
+------------------------------
+Iterations: 5
+Total computation time: 132.22 ms
+Average time per iteration: 0.0796 ms
+------------------------------
+Iterations: 10
+Total computation time: 125.24 ms
+Average time per iteration: 0.0570 ms
+------------------------------
+Iterations: 50
+Total computation time: 101.15 ms
+Average time per iteration: 0.0477 ms
+------------------------------
+Iterations: 100
+Total computation time: 98.79 ms
+Average time per iteration: 0.0495 ms
+------------------------------
